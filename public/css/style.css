@@ -1,0 +1,71 @@
+	/* img{
+				width: 100%;
+				height: auto;
+			}
+	.caption{
+				text-align: center;
+			}
+	.ok{
+				text-align: center;
+            	border: 1px solid;
+                padding: 10px;
+                width: 100px;
+                outline: none;
+                margin: auto;
+			}
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+/* .row{
+	left: 50%;
+    top: 50%;
+    margin-left: -25%;
+    position: absolute;
+    margin-top: -25%;
+} */
+
+/* strong{
+	font-weight: bold;
+} */
+ 
+body{
+	background:LightSteelBlue;
+color: black;
+}
+  
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+#delete-form{
+	display:inline;
+}
+
+#login{
+	text-align:center;
+	display:inline;
+	width: 30%;
+	margin: 25px auto;
+}
+
+#register{
+	text-align:center;
+	display:inline;
+	width: 30%;
+	margin: 25px auto;
+}
+
+.jumbotron{
+	background:LightBlue;
+}
+
